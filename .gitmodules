@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rusquant"]
-	path = rusquant
-	url = https://github.com/arbuzovv/rusquant
 [submodule "tcsinvest"]
 	path = tcsinvest
 	url = https://github.com/arbuzovv/tcsinvest
